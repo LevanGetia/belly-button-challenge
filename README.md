@@ -10,6 +10,8 @@ The Belly Button Biodiversity Dashboard provides an interactive platform to expl
 web visualization tools to present data insights from the Belly Button Biodiversity dataset.
 
 
+
+
 #Features
 
 
@@ -23,6 +25,8 @@ Bubble Chart: Visualizes the frequency of all bacterial species found in the sel
 
 Gauge Chart: Represents the weekly washing frequency of the selected individual's belly button.
 
+
+
 #Technologies Used
 
 
@@ -34,17 +38,22 @@ Plotly: For creating the charts.
 
 Bootstrap: For frontend layout and design.
 
+
+
 #Dataset
 
 
 The data used in this dashboard comes from the Belly Button Biodiversity project, which explores the microbial species in human navels. The dataset comprises samples from multiple 
-
 individuals, capturing various microbial species' OTU IDs and their corresponding frequencies.
+
+
 
 #Installation and Setup
 
 
 Clone the repository to your machine.
+
+
 
 #Acknowledgements
 
